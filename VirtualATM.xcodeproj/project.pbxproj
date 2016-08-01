@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3296D1371D3BC69900DF6786 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 3296D1361D3BC69900DF6786 /* main.c */; };
+		3296D1371D3BC69900DF6786 /* VirtualATM.c in Sources */ = {isa = PBXBuildFile; fileRef = 3296D1361D3BC69900DF6786 /* VirtualATM.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		3296D1331D3BC69900DF6786 /* VirtualATM */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VirtualATM; sourceTree = BUILT_PRODUCTS_DIR; };
-		3296D1361D3BC69900DF6786 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		3296D1361D3BC69900DF6786 /* VirtualATM.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = VirtualATM.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		3296D1351D3BC69900DF6786 /* VirtualATM */ = {
 			isa = PBXGroup;
 			children = (
-				3296D1361D3BC69900DF6786 /* main.c */,
+				3296D1361D3BC69900DF6786 /* VirtualATM.c */,
 			);
 			path = VirtualATM;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3296D1371D3BC69900DF6786 /* main.c in Sources */,
+				3296D1371D3BC69900DF6786 /* VirtualATM.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
